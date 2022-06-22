@@ -3,7 +3,7 @@
 - **American Housing Survey: Housing Affordability Data System [(HADS)](https://www.huduser.gov/portal/datasets/hads/hads.html)** Data derived from American Housing Survey (AHS) National Data for years 2005, 2007, 2009, 2011 and 2013 taken by **The United States Department of Housing and Urban Development**
 
 
-- **List of Variables in the Data to be used in Capstone**
+- **List of Variables in the Data used in Capstone**
 
 | **Variable Name** | **Type** | **Explanation** |
 | --- | --- | --- |
