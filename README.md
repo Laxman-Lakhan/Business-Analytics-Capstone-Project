@@ -1,6 +1,6 @@
 # Business-Statistics-and-Analysis-Capstone-Project
 
-<img src = "https://github.com/Laxman-Lakhan/Business-Statistics-and-Analysis-Capstone-Project/blob/33e95631376836b6cafc88ac257ef28959606333/images.png">
+<img src = "https://github.com/Laxman-Lakhan/Business-Statistics-and-Analysis-Capstone-Project/blob/49cbb625aa74f5239f0ecea129a22728fe219f11/Data/IMAGES/Rice%20University.png">
 
 - Analysis of data of the “Housing Affordability Data System” of the U.S. Department of Housing and Urban Development using Advance Excel Techniques. 
 
