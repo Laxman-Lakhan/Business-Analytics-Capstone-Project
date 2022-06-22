@@ -1,9 +1,9 @@
-# Data Files
+<img src="https://github.com/Laxman-Lakhan/Business-Statistics-and-Analysis-Capstone-Project/blob/0d0a87f4b88136d3518e7415e53f35fb7bed8867/Data/IMAGES/dataset_topbanner.jpeg">
 
-**American Housing Survey: Housing Affordability Data System [(HADS)](https://www.huduser.gov/portal/datasets/hads/hads.html)** Data derived from American Housing Survey (AHS) National Data for years 2005, 2007, 2009, 2011 and 2013 taken by **The United States Department of Housing and Urban Development**
+- **American Housing Survey: Housing Affordability Data System [(HADS)](https://www.huduser.gov/portal/datasets/hads/hads.html)** Data derived from American Housing Survey (AHS) National Data for years 2005, 2007, 2009, 2011 and 2013 taken by **The United States Department of Housing and Urban Development**
 
 
-**List of Variables in the Data to be used in Capstone**
+- **List of Variables in the Data to be used in Capstone**
 
 | **Variable Name** | **Type** | **Explanation** |
 | --- | --- | --- |
